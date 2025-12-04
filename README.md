@@ -30,7 +30,7 @@ data class Profile(
     "Flutter", "Kotlin Multiplatform", "Compose Multiplatform", "KMP"
   ],
   "Architecture & Patterns": [
-    "MVVM", "MVI", "MVP", "Repository Pattern", "Clean Architecture", "Use Cases"
+    "MVVM", "MVI", "MVP", "Repository Pattern", "Clean Architecture", "Use Cases", "Bloc", "Cubit"
   ],
   "Jetpack Libraries": [
     "Navigation", "Room", "WorkManager", "DataStore", "Paging", "Lifecycle", "ViewModel"
